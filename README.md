@@ -3,7 +3,7 @@
 ```java
 public class HolaMundo {
   public static void main(String[] args) {
-
+    System.out.printls("Hasta la victoria, siempre...digo Hola mundo");
   }
 }
 ```
